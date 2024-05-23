@@ -8,7 +8,7 @@
 
 <p align="center">
     <em>
-        This is me <b>HarshaVardhini Kyatam</b>, a 4th year <b>Computer Science</b> undergraduate from <a href="https://www.griet.ac.in/" color="white"> <b>Gokaraju Rangaraju Institute of Engineering and Technology</b>, Hyderabad</a>. I am currently exploring the realms of Machine Learning and Deep Learning.
+        This is me <b>HarshaVardhini Kyatam</b>, a 4th year <b>Computer Science</b> undergraduate from <a href="https://www.griet.ac.in/" color="white"> <b>Gokaraju Rangaraju Institute of Engineering and Technology</b>, Hyderabad</a>. I am currently exploring the realms of UI/UX development.
         <br>
     </em>
 </p>
@@ -60,14 +60,11 @@
 
 </hr>
 
-<a href="https://www.linkedin.com/in/abhiramdodda">
+<a href="https://www.linkedin.com/in/harshavardhini-kyatam-65501a213">
    <img align="left" alt="HarshaVardhini | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="mailto:harshavardhinikyatam021@gmail.com">
     <img align="left" alt="HarshaVardhini | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>
-<a href="https://twitter.com/DoddaAbhiram">
-    <img align="left" alt="HarshaVardhini | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
 
 <br>
